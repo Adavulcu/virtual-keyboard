@@ -1,0 +1,18 @@
+c:\users\adavu\onedrive\belgeler\visual studio 2015\Projects\sanal_klavye\sanal_klavye\bin\Debug\sanal_klavye.exe.config
+c:\users\adavu\onedrive\belgeler\visual studio 2015\Projects\sanal_klavye\sanal_klavye\bin\Debug\sanal_klavye.exe
+c:\users\adavu\onedrive\belgeler\visual studio 2015\Projects\sanal_klavye\sanal_klavye\bin\Debug\sanal_klavye.pdb
+c:\users\adavu\onedrive\belgeler\visual studio 2015\Projects\sanal_klavye\sanal_klavye\obj\Debug\sanal_klavye.csprojResolveAssemblyReference.cache
+c:\users\adavu\onedrive\belgeler\visual studio 2015\Projects\sanal_klavye\sanal_klavye\obj\Debug\sanal_klavye.Form1.resources
+c:\users\adavu\onedrive\belgeler\visual studio 2015\Projects\sanal_klavye\sanal_klavye\obj\Debug\sanal_klavye.Properties.Resources.resources
+c:\users\adavu\onedrive\belgeler\visual studio 2015\Projects\sanal_klavye\sanal_klavye\obj\Debug\sanal_klavye.csproj.GenerateResource.Cache
+c:\users\adavu\onedrive\belgeler\visual studio 2015\Projects\sanal_klavye\sanal_klavye\obj\Debug\sanal_klavye.exe
+c:\users\adavu\onedrive\belgeler\visual studio 2015\Projects\sanal_klavye\sanal_klavye\obj\Debug\sanal_klavye.pdb
+C:\Users\Apo\Desktop\Projects\sanal_klavye\sanal_klavye\bin\Debug\sanal_klavye.exe.config
+C:\Users\Apo\Desktop\Projects\sanal_klavye\sanal_klavye\obj\Debug\sanal_klavye.exe
+C:\Users\Apo\Desktop\Projects\sanal_klavye\sanal_klavye\obj\Debug\sanal_klavye.pdb
+C:\Users\Apo\Desktop\Projects\sanal_klavye\sanal_klavye\bin\Debug\sanal_klavye.exe
+C:\Users\Apo\Desktop\Projects\sanal_klavye\sanal_klavye\bin\Debug\sanal_klavye.pdb
+C:\Users\Apo\Desktop\Projects\sanal_klavye\sanal_klavye\obj\Debug\sanal_klavye.csprojResolveAssemblyReference.cache
+C:\Users\Apo\Desktop\Projects\sanal_klavye\sanal_klavye\obj\Debug\sanal_klavye.Form1.resources
+C:\Users\Apo\Desktop\Projects\sanal_klavye\sanal_klavye\obj\Debug\sanal_klavye.Properties.Resources.resources
+C:\Users\Apo\Desktop\Projects\sanal_klavye\sanal_klavye\obj\Debug\sanal_klavye.csproj.GenerateResource.Cache
